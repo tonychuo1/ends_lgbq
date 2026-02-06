@@ -130,5 +130,5 @@ executable on other Stata versions too.
 
 We use various user-written packages that must be installed
 by running `ssc install <package_name>` in Stata. These packages
-include: `coefplot`, `estout`, `esttab`, `gcollapse`, `lassopack`, `reghdfe`, `spmap`, and `xlincom`
+include: `coefplot`, `estout`, `esttab`, `gtools`, `lassopack`, `reghdfe`, `spmap`, and `xlincom`
 (please let me know if there are others I haven't included).
