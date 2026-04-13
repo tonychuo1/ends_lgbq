@@ -1,7 +1,7 @@
-# The effects of E-cigarette and cigarette policies on queer youth
+# The effects of e-cigarette and cigarette policies on queer youth
 
 This repository hosts replication code files for the _Journal of Health Economics_ article
-"[The effects of E-cigarette and cigarette policies on queer youth]()" by Tony Chuo,
+"[The effects of e-cigarette and cigarette policies on queer youth](https://doi.org/10.1016/j.jhealeco.2026.103116)" by Tony Chuo,
 Charles Courtemanche, Erik Nesson, Chad Cotti, Johanna Catherine Maclean, and Joseph J. Sabia.
 
 ## Notes
